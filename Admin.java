@@ -6,8 +6,8 @@ public class Admin {
         this.username = username;
         this.password = password;
     }
-    public boolean login() {
-       return username.equals("admin") && password.equals("admin");
+    public boolean login(String username, String password) {
+       return username.equals(this.username) && password.equals(this.password);
     }
     public void addPatient(PatientList patientList ,Patient patient)
     {
