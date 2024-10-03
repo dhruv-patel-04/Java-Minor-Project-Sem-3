@@ -35,7 +35,7 @@ Implement methods for addPatient(), editPatient(), and deletePatient().
 Work on the core logic of the hospital record system, allowing only admin users to add, edit, and delete records.
 Provide methods for admin login and session handling.
 
-2. Dhuruv:
+2. Dhruv:
 Patient Record Management
 Design the Patient class, which includes attributes like id, name, age, address, diagnosis, etc.
 Implement the PatientList class for storing and managing patient records using an array or ArrayList.
@@ -47,7 +47,7 @@ Implement the methods to list all patients' records (visible to both users and a
 Implement search functionality (searchPatient()) where patients can be searched by ID, name, or other attributes.
 Optimize the search method to handle large datasets efficiently.
 
-4. Jahnvi:
+4. Jahnavi:
 UI/Console Interface and Input Handling
 Handle the user interface, ensuring smooth interaction between the user/admin and the system.
 Implement the menu system that provides options for the admin to log in, list patients, search, add, edit, delete, and exit the system.
