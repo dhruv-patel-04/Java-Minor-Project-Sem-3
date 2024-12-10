@@ -1,6 +1,6 @@
 # java-minor-project-sem-3
 
-**Hospital Record System:** This project is to keep patients details, Admin can only have rights to access all features and access it by admin credentials. The admin can add the number of patient details and users can see the details of every patients in the list form. The admin can also delete the patient records if he/she wants to remove them.
+**Hospital Record System:** This project is to keep patients details, Admin can only have rights to access all features and access it by admin credentials. The admin can add the number of patient details and users can see the details of every patients in the list form. The admin can also delete the patient records if he/she wants to remove them. <br> <br>
  **Features:**
  1. Add Patients Record
  2. List Patients Record
@@ -13,16 +13,16 @@
 
 Here’s how the work for the Hospital Record System project can be distributed among the team of four:
 
-**Project Breakdown:**
+**Project Breakdown:** <br>
 **Admin Features:**
 
-  Add Patient Record
-  Edit Patient Record
-  Delete Patient Record
-  Exit
+  Add Patient Record <br>
+  Edit Patient Record <br>
+  Delete Patient Record <br>
+  Exit <br> <br>
 **User Features:**
 
-  List Patient Records
+  List Patient Records <br>
   Search Patient Records
 
 
@@ -51,8 +51,8 @@ Optimize the search method to handle large datasets efficiently.
 UI/Console Interface and Input Handling <br>
 Handle the user interface, ensuring smooth interaction between the user/admin and the system.
 Implement the menu system that provides options for the admin to log in, list patients, search, add, edit, delete, and exit the system.
-Manage user input and handle exceptions (e.g., invalid input). <br>
-**Class Diagram:**
+Manage user input and handle exceptions (e.g., invalid input). <br> <br>
+**Class Diagram:** <br>
 The class diagram can be organized as follows:
 
 
@@ -103,10 +103,4 @@ The class diagram can be organized as follows:
               | + displayRecords()     |
               | + searchMenu()         |
               +-----------------------+
-This distribution ensures clear responsibilities for each team member. 
-
-
-
-
-
-
+This distribution ensures clear responsibilities for each team member.
