@@ -29,26 +29,26 @@ User Features:
 Team Work Distribution:
 
 1. Dhup:
-Admin Class and Credentials Management
+Admin Class and Credentials Management <br>
 Create the Admin class to handle admin authentication and role management.
 Implement methods for addPatient(), editPatient(), and deletePatient().
 Work on the core logic of the hospital record system, allowing only admin users to add, edit, and delete records.
 Provide methods for admin login and session handling.
 
-2. Dhruv:
-Patient Record Management
+2. Dhruv (ME):
+Patient Record Management <br>
 Design the Patient class, which includes attributes like id, name, age, address, diagnosis, etc.
 Implement the PatientList class for storing and managing patient records using an array or ArrayList.
 Ensure efficient data structures to hold patient records.
 
 3. Dharam:
-List and Search Functionality
+List and Search Functionality <br>
 Implement the methods to list all patients' records (visible to both users and admins).
 Implement search functionality (searchPatient()) where patients can be searched by ID, name, or other attributes.
 Optimize the search method to handle large datasets efficiently.
 
 4. Jahnavi:
-UI/Console Interface and Input Handling
+UI/Console Interface and Input Handling <br>
 Handle the user interface, ensuring smooth interaction between the user/admin and the system.
 Implement the menu system that provides options for the admin to log in, list patients, search, add, edit, delete, and exit the system.
 Manage user input and handle exceptions (e.g., invalid input).
